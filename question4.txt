@@ -1,0 +1,12 @@
+Write a short note on Tag and element with an example? 
+=> In HTML, a tag is used to define different elements within a webpage. 
+Tags are enclosed in angle brackets <>, and they indicate the beginning and end of an element. 
+An element consists of the opening tag, content, and closing tag. 
+
+Example:- 
+<p>This is a paragraph of text.</p> 
+<p> is the opening tag for a paragraph element. 
+"This is a paragraph of text." is the content of the paragraph. 
+</p> is the closing tag for the paragraph element. 
+Together, the opening tag, content, and closing tag form the <p> element, 
+which represents a paragraph of text on the webpage.
